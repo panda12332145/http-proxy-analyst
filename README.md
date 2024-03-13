@@ -29,7 +29,8 @@
 
   <p align="center">
   <kbd>
-  <img width="280" style="border-radius: 5px" height="400" src="https://github.com/panda12332145/http-proxy-analyst/blob/main/github%20assets/Menu.jpg">
+  <img width="500" style="border-radius: 5px" height="400" src="https://raw.githubusercontent.com/panda12332145/http-proxy-analyst/main/imagens/Screenshot_20210714-014314%20-%20Copia.jpg">
+    <img width="100" style="border-radius: 5px" height="400" src="https://raw.githubusercontent.com/panda12332145/http-proxy-analyst/main/imagens/Screenshot_20210714-014314%20-%20.jpg">
   </kbd>
   </p>
 
