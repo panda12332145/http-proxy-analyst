@@ -4,14 +4,14 @@
 
 <p align="center">
 
-  <img alt="Repository size" src="https://img.shields.io/github/repo-size/panda12332145/calculator-with-gui-in-python">
+  <img alt="Repository size" src="https://img.shields.io/github/repo-size/panda12332145/http-proxy-analyst">
   
-  <a href="https://github.com/panda12332145/calculator-with-gui-in-python/commits/master">
-    <img alt="GitHub last commit" src="https://img.shields.io/github/last-commit/panda12332145/calculator-with-gui-in-python">
+  <a href="https://github.com/panda12332145/http-proxy-analyst/commits/master">
+    <img alt="GitHub last commit" src="https://img.shields.io/github/last-commit/panda12332145/http-proxy-analyst">
   </a>
  
-   <a href="https://github.com/panda12332145/calculator-with-gui-in-python">
-    <img alt="Stargazers" src="https://img.shields.io/github/stars/panda12332145/calculator-with-gui-in-python?style=social">
+   <a href="https://github.com/panda12332145/http-proxy-analyst">
+    <img alt="Stargazers" src="https://img.shields.io/github/stars/panda12332145/http-proxy-analyst?style=social">
   </a>
  
 </p>
@@ -29,7 +29,7 @@
 
   <p align="center">
   <kbd>
-  <img width="280" style="border-radius: 5px" height="400" src="https://github.com/panda12332145/calculator-with-gui-in-python/blob/main/github%20assets/Menu.jpg">
+  <img width="280" style="border-radius: 5px" height="400" src="https://github.com/panda12332145/http-proxy-analyst/blob/main/github%20assets/Menu.jpg">
   </kbd>
   </p>
 
