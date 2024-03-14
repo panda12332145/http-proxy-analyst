@@ -36,7 +36,7 @@
 
 <h2 id="Como Executar">⚙️  Explicação das partes importantes:</h2>
 1. **Função `download_proxies`**: 
-   - Esta função baixa a lista de proxies de uma URL especificada e a salva em um arquivo local.
+   - Esta função baixa a lista de proxies de uma API especificada e a salva em um arquivo local.
 
 2. **Função `verificar_proxy`**:
    - Testa a funcionalidade de um proxy específico fazendo uma requisição HTTP a um site de exemplo. Retorna o status do proxy.
